@@ -1,8 +1,8 @@
 {
-  "name": "ra-9-1",
+  "name": "ra-9-2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nugmanov87.github.io/ra-9-1/",
+  "homepage": "https://nugmanov87.github.io/ra-9-2/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
